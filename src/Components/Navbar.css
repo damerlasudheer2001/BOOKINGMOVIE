@@ -1,0 +1,14 @@
+.navbar{
+    border: 1px solid red;
+    background-color: blue;
+    color:red;
+    font-size: 30px;
+    font-weight: 800;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar .link{
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}

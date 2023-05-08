@@ -1,0 +1,32 @@
+
+.MovieCard{
+    border :5px solid red;
+    height: 75vh;
+    width: 350px;
+    margin-top: 4vh;
+    padding: 2vh;
+    margin-right: 4vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    color:red;
+    padding-top: 380px;
+    font-weight: bold;
+}
+.btn{
+    background-color:wheat;
+    border-radius: 35px;
+    border: 3px solid red;
+    font-weight: bold;
+}
+button{
+    background-color: green;
+    border-radius: 35px;
+    font-weight: bold;
+}
+.MovieCard:hover{
+    transform:scale(1.1,1.1);
+    border: 4px solid white;
+    border-radius: 10%;
+}

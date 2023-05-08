@@ -1,0 +1,9 @@
+.homeCOntainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color:bisque;
+    height: auto;
+
+}
